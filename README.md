@@ -4,7 +4,7 @@
 
 Here I'll share my personal and education information . With that I'll provide all the assignments for the courses that I've been on this whole semester (Y1S1). You can also find my reflections on every courses in the end. I'll try to provide a comprehensive idea about each phase. Thank you.
 
-🤍 **_Core_** 🤍
+ *_Core_* 
 1. Education level
    - Dhaka City College, Dhaka, Bangladesh
    - University: Universiti Teknologi Malaysia (UTM), Skudai, Johor 
@@ -26,16 +26,18 @@ Here I'll share my personal and education information . With that I'll provide a
 
 🤍 **_Recommended_** 🤍
 1. Course: Bachelor Honours Degree in Computer Science (Graphic and Multimedia)
-2. Certificate: SPM cert
+2. Certificate: 
 
-🤍 **_Additional_** 🤍
+ **_Additional_** 
 1. Honors and awards:
-   - Sin Chew Newspaper Clipping National Competition: Special Awards
-   - Extracurricular Activities Award
+
+    - Pathshala - South asian media institute certificate.
+    - Dhaka City college art and craft club panel certifiate.
+   - 
   
-🤍 **_Links_** 🤍
-1. Github: https://github.com/VeraSam-04
-2. LinkedIn: https://www.linkedin.com/in/wei-leng-238130273/
+ **_Links_**
+1. Github: https://github.com/shams248
+2. LinkedIn: https://www.linkedin.com/in/tamim-shams-137125214/
 
 ## $${\color{purple}Recording \space of \space Assignments/Projects \space for \space each \space course \space in \space this \space semester}$$
 🖥️ **_Technology & Information System_**
