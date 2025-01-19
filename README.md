@@ -1,7 +1,7 @@
 # it's Md Tamim Shams, aka " Shams ". And this is my E-Portfolio
 
 ## My Profile
-
+https://github.com/shams248/E-Portfolio.SECP1513/blob/4d4fe3785a13a79293e8378292898d82103d1514/Shams.jpg
 Here I'll share my personal and academic information . With that I'll provide all the assignments for the courses that I've been on this whole semester (Y1S1). You can also find my reflections on every courses in the end. I'll try to provide a comprehensive idea about each phase. Thank you.
 
   **_Core_** 
@@ -53,7 +53,6 @@ Here I'll share my personal and academic information . With that I'll provide al
    - Assignment 3: Academic Writing (in charge of poster designing and Article 2's information organizing)
      
       [ Skills In University and Industry ] (https://github.com/shams248/E-Portfolio.SECP1513/blob/98d1b6e461464ba8b143650ca6d12f799b445cc7/Academic%20Writing%20on%20Industrial%20Talk%202.pdf)
-     https://drive.google.com/file/d/1VOrCjgPyOGX7uKkC2v4Y7zCjudvXsZ8I/view?usp=sharing
    - Assignment 4: Newsletter of Industry Visit 2 to MAGICX (in charge of newsletter designing)
      
       [Newsletter of Industry Visit 2](https://drive.google.com/file/d/1H3dpezWyqEa-g52VPX5dACdMTwxRwGJH/view?usp=drive_link)
