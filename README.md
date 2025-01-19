@@ -39,7 +39,7 @@ Here I'll share my personal and education information . With that I'll provide a
 1. Github: https://github.com/shams248
 2. LinkedIn: https://www.linkedin.com/in/tamim-shams-137125214/
 
-## $${\color{purple}Recording \space of \space Assignments/Projects \space for \space each \space course \space in \space this \space semester}$$
+## $${\color{orange}Assignment \space records/Projects \space for \space each \space course \space in \space this \space semester}$$
 🖥️ **_Technology & Information System_**
 1. Industrial Talk and Industry Visit:
    - Assingment 1: Overview of ICT Jobs In Industry's Poster (in charge of poster designing)
