@@ -40,8 +40,8 @@ Here I'll share my personal and education information . With that I'll provide a
 2. LinkedIn: https://www.linkedin.com/in/tamim-shams-137125214/
 
 ## $${\color{Green} Assignment \space Records/Projects \space for \space each \space course \space for \space Y1S1 }$$
-🖥️ **_Technology & Information System_**
-1. Industrial Talk and Industry Visit:
+💻 **_Technology & Information System_**
+1. Industrial Talk :
    - Assingment 1: Overview of ICT Jobs In Industry's Poster (in charge of poster designing)
      
     ![Overview of ICT jobs](https://github.com/user-attachments/assets/d6af3414-cc57-4a7e-921a-1882aac5cb59)
