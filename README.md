@@ -1,4 +1,6 @@
-# It's Md Tamim Shams, aka "Shams". And this is my E-Portfolio
+<h1 align="center">Hey! It's Md Tamim Shams aka"Shams" 🙋🏻 </h1>
+<h3 align="center"> Learning the ways of the legends </h3>
+
 
 ## My Profile
 ![Shams' face](https://github.com/shams248/E-Portfolio.SECP1513/blob/main/Shams.jpg)
