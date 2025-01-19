@@ -1,11 +1,8 @@
-# It's Me! 
-Hey Guys! Welcome to Vera's Github wonderland！❤️
+# Hey Everyone it's Shams.
 
 ## My Profile
-![Vera's pic](https://github.com/user-attachments/assets/2391946e-32f1-4e6f-be44-bee1b873cc3e) 
-**Know More About My Wonderland🫧**
 
-Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan located in Pahang. I just turned 20 a month ago which is on 18th October. I love the number of 18 since it's a number always by my side. So, in my e-portfolio I'll share my personal education information and some of the honors and certs I gained. Other than that, I'll record all the assignments for each courses I did throughout this whole semester (Y1S1). At last, I'll share all my reflections on every courses this semester. I hope thruough this e-portfolio, all of you will have a stroger connection with me and know me better! Thank you.
+my name is Vera Sam Wei Leng and I'm from Kuantan located in Pahang. I just turned 20 a month ago which is on 18th October. I love the number of 18 since it's a number always by my side. So, in my e-portfolio I'll share my personal education information and some of the honors and certs I gained. Other than that, I'll record all the assignments for each courses I did throughout this whole semester (Y1S1). At last, I'll share all my reflections on every courses this semester. I hope thruough this e-portfolio, all of you will have a stroger connection with me and know me better! Thank you.
 
 🤍 **_Core_** 🤍
 1. Education level
@@ -178,8 +175,8 @@ Programming Technique 1 could be said is the most challenging course among the 5
 
 For the suggestion, I hope that more discussion about coding of a big project could be done so that we will know what should be notice and the technics we need to solve a complicated task. 
 
-🖋️ **_Integrity and Anti-corruption_**
+🖋️ Integrity and Anti-corruption
 
-This course taught me how to be an integrity person in the community, university, and family. If I want to conclude all the knowledges and values I gained from this course with a sentence it will be "You are rewarded for your efforts." You did crime, you are rewarded by legal punishment; you did good deeds, you gain good karma. 
+This course taught me how to be a person with integrity in the community, university, and family. If I want to conclude all the knowledges and values I gained from this course with a sentence it will be "You are rewarded for your efforts." You did crime, you are rewarded by legal punishment; you did good deeds, you gain good karma. 
 
 One of the suggestions from me is that more physical classes should be held so that we can connect with the lecturer much more easier because we might not get the respond through online communication due to the busyness of lecturer. 
