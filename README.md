@@ -44,7 +44,7 @@ Here I'll share my personal and education information . With that I'll provide a
 1. Industrial Talk :
    - Assingment 1: Overview of ICT Jobs In Industry's Poster (in charge of poster designing)
      
-    ![Overview of ICT jobs](https://github.com/user-attachments/assets/d6af3414-cc57-4a7e-921a-1882aac5cb59)
+    ![Overview of ICT jobs](https://github.com/shams248/SECP1513/blob/main/Air%20Asia.jpg)
    - Assignment 2: Video of Industry Visit 1 to UTMDigital (in charge of video editing)
      
       [Video of Industry Visit 1](https://drive.google.com/file/d/14VvHXPuBt_WW6CV3fFcrTaw2B5IA87kl/view?usp=drive_link)
