@@ -19,6 +19,7 @@ Here I'll share my personal and education information . With that I'll provide a
      c. HIndi
 
    - Photography
+     Profile: {\color{green} https://www.instagram.com/ss_deja_vu/}
      
    - Communication
    
