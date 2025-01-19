@@ -52,7 +52,7 @@ Here I'll share my personal and academic information . With that I'll provide al
       [Video of Industry Visit 1](https://drive.google.com/file/d/14VvHXPuBt_WW6CV3fFcrTaw2B5IA87kl/view?usp=drive_link)
    - Assignment 3: Academic Writing (in charge of poster designing and Article 2's information organizing)
      
-      [ Skills In University and Industry ] Academic Writing on Industrial Talk 2.pdf
+      [ Skills In University and Industry ] (https://github.com/shams248/E-Portfolio.SECP1513/blob/98d1b6e461464ba8b143650ca6d12f799b445cc7/Academic%20Writing%20on%20Industrial%20Talk%202.pdf)
      https://drive.google.com/file/d/1VOrCjgPyOGX7uKkC2v4Y7zCjudvXsZ8I/view?usp=sharing
    - Assignment 4: Newsletter of Industry Visit 2 to MAGICX (in charge of newsletter designing)
      
