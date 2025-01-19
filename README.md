@@ -1,7 +1,7 @@
 # it's Md Tamim Shams, aka " Shams ". And this is my E-Portfolio
 
 ## My Profile
-https://github.com/shams248/E-Portfolio.SECP1513/blob/main/Shams.jpg
+![Shams' face]https://github.com/shams248/E-Portfolio.SECP1513/blob/main/Shams.jpg
 Here I'll share my personal and academic information . With that I'll provide all the assignments for the courses that I've been on this whole semester (Y1S1). You can also find my reflections on every courses in the end. I'll try to provide a comprehensive idea about each phase. Thank you.
 
   **_Core_** 
