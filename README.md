@@ -2,7 +2,7 @@
 
 ## My Profile
 
-Here I'll share my personal and education information . With that I'll provide all the assignments for the courses that I've been on this whole semester (Y1S1). You can also find my reflections on every courses in the end. I'll try to provide a comprehensive idea about each phase. Thank you.
+Here I'll share my personal and academic information . With that I'll provide all the assignments for the courses that I've been on this whole semester (Y1S1). You can also find my reflections on every courses in the end. I'll try to provide a comprehensive idea about each phase. Thank you.
 
   **_Core_** 
 1. Education level
@@ -16,7 +16,7 @@ Here I'll share my personal and education information . With that I'll provide a
      
      b. Bengali
 
-     c. HIndi
+     c. Hindi
 
    - Photography
      Profile:
@@ -44,15 +44,15 @@ Here I'll share my personal and education information . With that I'll provide a
 ## $${\color{Green} Assignment \space Records/Projects \space for \space each \space course \space for \space Y1S1 }$$
 💻 **_Technology & Information System_**
 1. Industrial Talk :
-   - Assingment 1: Overview of ICT Jobs In Industry's Poster (in charge of poster designing)
+   - Assingment 1: Overview of ICT Jobs In Industry's Poster (Poster designing)
      
     ![Overview of ICT jobs](https://github.com/shams248/SECP1513/blob/main/Air%20Asia.jpg)
-   - Assignment 2: Video of Industry Visit 1 to UTMDigital (in charge of video editing)
+   - Assignment 2: Video of Industry Visit 1 to UTMDigital ( Video record and editing)
      
       [Video of Industry Visit 1](https://drive.google.com/file/d/14VvHXPuBt_WW6CV3fFcrTaw2B5IA87kl/view?usp=drive_link)
    - Assignment 3: Academic Writing (in charge of poster designing and Article 2's information organizing)
      
-      [Poster: Skills In University and Industry](https://drive.google.com/file/d/12ZhcBcClfN6L0r9VbyXTGAgCVPVMptbr/view?usp=drive_link)
+      [Poster: Skills In University and Industry] https://drive.google.com/file/d/1VOrCjgPyOGX7uKkC2v4Y7zCjudvXsZ8I/view?usp=sharing
    - Assignment 4: Newsletter of Industry Visit 2 to MAGICX (in charge of newsletter designing)
      
       [Newsletter of Industry Visit 2](https://drive.google.com/file/d/1H3dpezWyqEa-g52VPX5dACdMTwxRwGJH/view?usp=drive_link)
