@@ -4,7 +4,7 @@
 
 Here I'll share my personal and education information . With that I'll provide all the assignments for the courses that I've been on this whole semester (Y1S1). You can also find my reflections on every courses in the end. I'll try to provide a comprehensive idea about each phase. Thank you.
 
- *_Core_* 
+  **_Core_** 
 1. Education level
    - Dhaka City College, Dhaka, Bangladesh
    - University: Universiti Teknologi Malaysia (UTM), Skudai, Johor 
@@ -24,7 +24,7 @@ Here I'll share my personal and education information . With that I'll provide a
    
    - Design
 
-🤍 **_Recommended_** 🤍
+ **_Recommended_** 
 1. Course: Bachelor Honours Degree in Computer Science (Graphic and Multimedia)
 2. Certificate: 
 
