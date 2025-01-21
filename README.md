@@ -31,18 +31,21 @@ Here I'll share my personal and academic information . With that I'll provide al
 
  **_Recommended_** 
 1. Course: Bachelor Honours Degree in Computer Science (Graphic and Multimedia)
-2. Certificate: 
+2. Certificate: HSC (Science) 
 
  **_Additional_** 
 1. Honors and awards:
 
     - Pathshala - South asian media institute certificate.
     - Dhaka City college art and craft club panel certifiate.
-   - 
+    - Photo Exhibition Cert.
+    - 
   
  **_Links_**
-1. Github: https://github.com/shams248
-2. LinkedIn: https://www.linkedin.com/in/tamim-shams-137125214/
+
+1. [Github](https://github.com/shams248)
+2. [LinkedIn](https://www.linkedin.com/in/tamim-shams-137125214/)
+3. [Instagram](https://www.instagram.com/ss_deja_vu/)
 
 ## $${\color{Green} Assignment \space Records/Projects \space for \space each \space course \space for \space Y1S1 }$$
 💻 **_Technology & Information System_**
