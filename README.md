@@ -39,7 +39,7 @@ Here I'll share my personal and academic information . With that I'll provide al
     - Pathshala - South asian media institute certificate.
     - Dhaka City college art and craft club panel certifiate.
     - Photo Exhibition Cert.
-    - 
+      
   
  **_Links_**
 
@@ -70,18 +70,19 @@ Here I'll share my personal and academic information . With that I'll provide al
    - Presentation Slide: [Slides on Digital wellness platform](https://drive.google.com/file/d/1HsLqYgqvNK_beeJLjo9pSybNeVIHnxTV/view?usp=sharing)
    - Prototytpe: [Wellness 360](https://github.com/shams248/E-Portfolio.SECP1513/blob/59ee3b2145d7e48f6ec82a5e126e78a769c2ceac/Your%20Schedule!%20(1).pdf)
 
-1. <ins>Industry Talk and Industry Visit<ins>
+**_Reflection:_** 💁🏻
+
+<ins>Industry Talk and Industry Visit<ins>
 
 The industry talk and visit assignments taught me how to sift through information and present it clearly and attractively in formats like posters, newsletters, and reports. Without a background in design, I initially struggled with creating visually appealing content. However, by exploring examples on Pinterest, I found inspiration that improved my work. This process underscored the value of leveraging external resources to enhance my skills and address areas where I lacked expertise.
    
-
-2. <ins>Design Thinking: Wellness 360</ins>
+<ins>Design Thinking: Wellness 360</ins>
 
 This was the first major project I worked on with my group, focusing on developing Wellness 360, an app prototype designed to track lifestyle habits and promote overall wellness. The project challenged my creativity to produce a practical and engaging idea. We faced many obstacles, with one solution often leading to new problems, underscoring the need for thorough planning.
 
 Effective communication was crucial, as our group had diverse perspectives. Reaching consensus was a challenge, but by giving everyone a chance to present their ideas' pros and cons, we resolved conflicts through fair voting, enabling us to progress as a cohesive team.
 
-**_Reflection:_** 💁🏻
+<ins>Summary</ins>
 
 This course taught me invaluable skills, such as filtering information, hands-on abilities, effective group discussions, and quick knowledge absorption. The variety in assignments and projects made it engaging, as each task brought new challenges and opportunities to explore different fields. It was especially enjoyable because we got to experience diverse activities like assembling PCs, designing posters, and generating ideas. The frequent group work also gave us ample chances to interact with international students during our weekly in-class activities.
 
